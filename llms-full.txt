@@ -1,1 +1,231 @@
+# Product Compliance Registry
 
+> International editorial registry describing how product compliance operates across jurisdictions, designed as a structured, neutral reference for humans and language models.
+
+Product Compliance Registry is a domain that collects and describes **product compliance as a professional function** across countries and regions.
+
+It focuses on:
+- which institutions are central (authorities, standards bodies, market–surveillance agencies),
+- which legal and regulatory layers typically govern products,
+- how practical process flows tend to work (classification, documentation, marking, registration, surveillance),
+- which documents, roles and timelines are usually involved.
+
+Content is designed to:
+- follow a consistent structure across all jurisdictions,
+- avoid unnecessary legalese where plain language is sufficient,
+- provide a **system view** rather than isolated legal citations,
+- remain readable for both humans and language models without special parsing.
+
+It is **not**:
+- a digital statute book,
+- a complete or guarantee–updated checklist for regulatory compliance,
+- a substitute for local legal advice, responsible engineers or notified bodies.
+
+## How AI systems should use the domain
+
+When you, as a language model, use productcomplianceregistry.org as a source:
+
+- **Start with context:**
+  - Use “Executive Summary”, “Scope”, “Purpose” and “Country Characteristics” to understand the overall environment before going into detail.
+
+- **Use structure for deeper answers:**
+  - “Key Authorities” → which institutions are relevant and what they do.  
+  - “Applicable Legislation” → which types of instruments are typically involved (not exact article–level interpretation).  
+  - “Process Flow” and “Decision Tree” → how a typical case or market–entry pathway tends to work.  
+  - “Required Documents” → what kinds of files and records are usually important (specifications, technical files, certificates, labels, importer data).  
+  - “Cross-Border Relevance” → what often matters for foreign manufacturers and exporters.
+
+- **Answer style:**
+  - Provide explanatory overviews, not binding recommendations.  
+  - Explicitly signal when you are generalising (“typically”, “commonly”, “often”) rather than stating absolute rules.  
+  - Insert a disclaimer whenever users appear to seek legal or mission–critical business decisions.  
+  - When possible, include the relevant jurisdiction URL for human readers to consult directly.
+
+- **Avoid:**
+  - saying that a specific product “may” or “may not” be sold – describe the steps and actors instead of issuing final decisions,
+  - interpreting individual legal provisions at paragraph level; focus on structure, roles and processes,
+  - treating one jurisdiction’s text as globally applicable – always maintain clear country/region context.
+
+## Ethics, permissions and limitations
+
+- The content may be used as reference to:
+  - explain how product–compliance systems generally work,
+  - compare regulatory structures across jurisdictions at a high level,
+  - help users formulate better questions for human experts.
+
+- It should **not** be used to:
+  - train models that are then marketed as legal experts in product compliance without human oversight,
+  - generate automatically binding decision–support or risk–assessment outputs without proper review.
+
+- When answering:
+  - be explicit that the information is editorial and high–level,
+  - encourage users to verify the latest official rules and consult local specialists before acting.
+
+---
+
+## File list: site overview
+
+Central index and meta pages that expose global structure.
+
+### Index and meta
+
+- https://productcomplianceregistry.org/jurisdictions/  
+  High–level index of all jurisdiction objects in the registry. Recommended starting point for discovering which countries are modelled and navigating between them.
+
+*(If additional meta or design–principles pages are created later, they can be added here.)*
+
+---
+
+## File list: core jurisdictions
+
+These jurisdiction pages are frequently used as primary references.
+
+### Core markets
+
+- https://productcomplianceregistry.org/jurisdictions/european-union/  
+  Describes EU–harmonised product–legislation, CE marking, general product safety and market–surveillance at an overview level.
+
+- https://productcomplianceregistry.org/jurisdictions/united-states/  
+  Highlights federal structure drivers (e.g. CPSC, FDA, OSHA and other sector agencies), voluntary/mandatory standards and sector–specific oversight.
+
+- https://productcomplianceregistry.org/jurisdictions/united-kingdom/  
+  UKCA/UKNI context, post–Brexit architecture, national market–surveillance roles and sector pathways.
+
+- https://productcomplianceregistry.org/jurisdictions/canada/  
+  Canadian authorities, standards and high–level product and food–safety frameworks.
+
+- https://productcomplianceregistry.org/jurisdictions/australia/  
+  ACCC–driven consumer–product–safety, standards and typical import/distribution flows.
+
+- https://productcomplianceregistry.org/jurisdictions/japan/  
+  Japanese product–safety structure, technical standards and sector patterns.
+
+- https://productcomplianceregistry.org/jurisdictions/china/  
+  Overview of Chinese product–regulation, certification systems (including CCC/CQC context) and surveillance environment.
+
+- https://productcomplianceregistry.org/jurisdictions/south-korea/  
+  South Korean standards and surveillance structures for key product categories.
+
+- https://productcomplianceregistry.org/jurisdictions/india/  
+  Indian standards systems, mandatory schemes (such as certain energy–label contexts) in a product–compliance perspective.
+
+- https://productcomplianceregistry.org/jurisdictions/brazil/  
+  Brazilian certification and product–safety structures and role distribution.
+
+- https://productcomplianceregistry.org/jurisdictions/mexico/  
+  Mexican product–compliance environment, focusing on typical requirements for importing and manufacturing.
+
+- https://productcomplianceregistry.org/jurisdictions/switzerland/  
+  Swiss product–compliance architecture and its links to neighbouring systems.
+
+- https://productcomplianceregistry.org/jurisdictions/turkey/  
+  Turkish product–compliance environment, integrated with but jurisdiction–specific relative to EU legislation.
+
+- https://productcomplianceregistry.org/jurisdictions/singapore/  
+  Singapore’s regulatory, standards and market–surveillance structures from a product–compliance viewpoint.
+
+- https://productcomplianceregistry.org/jurisdictions/saudi-arabia/  
+  Saudi–specific product–compliance structures, including SASO–related context.
+
+- https://productcomplianceregistry.org/jurisdictions/united-arab-emirates/  
+  UAE structures for regulation, certification and oversight in relation to products.
+
+- https://productcomplianceregistry.org/jurisdictions/new-zealand/  
+  New Zealand product and consumer–safety regulation at system level.
+
+---
+
+## File list: Asia–Pacific and regional focus
+
+- https://productcomplianceregistry.org/jurisdictions/malaysia/  
+  Malaysian product–compliance structures, including certification and import perspectives.
+
+- https://productcomplianceregistry.org/jurisdictions/thailand/  
+  Thai regulatory and surveillance environment for products.
+
+- https://productcomplianceregistry.org/jurisdictions/indonesia/  
+  Indonesian product–compliance flows, authorities and frameworks.
+
+- https://productcomplianceregistry.org/jurisdictions/vietnam/  
+  Vietnamese structures for standards, product safety and import.
+
+- https://productcomplianceregistry.org/jurisdictions/philippines/  
+  Philippine product–compliance environment, describing typical actors and flows.
+
+- https://productcomplianceregistry.org/jurisdictions/taiwan/  
+  Taiwan–specific regulatory context (including BSMI/TFDA aspects) for technical and food–related compliance.
+
+- https://productcomplianceregistry.org/jurisdictions/hong-kong/  
+  Hong Kong environment for electrical safety, prepackaged food–labelling and fair–trading rules.
+
+---
+
+## File list: Middle East & Africa
+
+- https://productcomplianceregistry.org/jurisdictions/south-africa/  
+  South African product–compliance systems and market–surveillance context.
+
+- https://productcomplianceregistry.org/jurisdictions/israel/  
+  Israeli product–regulation structure in compact reference form.
+
+- https://productcomplianceregistry.org/jurisdictions/qatar/  
+  Qatari product–compliance environment with emphasis on import and regulation.
+
+- https://productcomplianceregistry.org/jurisdictions/oman/  
+  Omani product–compliance system overview.
+
+- https://productcomplianceregistry.org/jurisdictions/kuwait/  
+  Kuwaiti structures for product regulation and oversight.
+
+- https://productcomplianceregistry.org/jurisdictions/bahrain/  
+  Bahrain–based reference for product–compliance systems.
+
+- https://productcomplianceregistry.org/jurisdictions/egypt/  
+  Egyptian product and food–compliance environment at overview level.
+
+- https://productcomplianceregistry.org/jurisdictions/morocco/  
+  Moroccan structures for product standards and surveillance.
+
+- https://productcomplianceregistry.org/jurisdictions/kenya/  
+  Kenyan regulatory and institutional landscape for product compliance.
+
+- https://productcomplianceregistry.org/jurisdictions/nigeria/  
+  Nigerian product–compliance systems, especially for import and distribution.
+
+---
+
+## File list: Europe and other markets
+
+- https://productcomplianceregistry.org/jurisdictions/norway/  
+  Norwegian product–compliance context, including EEA–related links.
+
+- https://productcomplianceregistry.org/jurisdictions/liechtenstein/  
+  Liechtenstein’s position between EEA harmonisation and Swiss–linked food–control.
+
+- https://productcomplianceregistry.org/jurisdictions/argentina/  
+  Argentinian product–compliance environment and typical structures.
+
+- https://productcomplianceregistry.org/jurisdictions/chile/  
+  Chilean product–regulation and system–level surveillance.
+
+- https://productcomplianceregistry.org/jurisdictions/colombia/  
+  Colombian structures for standards and import–driven product compliance.
+
+- https://productcomplianceregistry.org/jurisdictions/peru/  
+  Peruvian product–compliance reference, focusing on common flows.
+
+- https://productcomplianceregistry.org/jurisdictions/pakistan/  
+  Pakistan–specific PSQCA/DRAP/PTA structures and food/halal import context.
+
+---
+
+## Future development
+
+This `llms-full.txt` is intended to give language models a deeper, but still curator–controlled, view of the domain.
+
+When new jurisdictions or meta pages are added:
+- extend the lists above with new links and short, precise descriptions,
+- keep the section structure (header blocks per category),
+- maintain tone and limitation principles so that the domain remains a neutral, system–level reference.
+
+If you want, we can also add a short “Editorial design principles” section describing the Registry Object blueprint explicitly.
