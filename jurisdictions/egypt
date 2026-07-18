@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <title>Product Compliance in Egypt | Product Compliance Registry</title>
+  <meta name="description" content="Product Compliance in Egypt professional object registry covering product safety and quality requirements, GOEIC conformity assessment and Certificates of Inspection, consumer protection and Arabic labeling obligations, National Food Safety Authority food labeling and registration rules, process flow, required documents and cross-border market access relevance." />
+  <link rel="canonical" href="https://productcomplianceregistry.org/jurisdictions/egypt" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Product Compliance in Egypt" />
+  <meta property="og:description" content="Neutral registry record covering product compliance in Egypt, including GOEIC conformity assessment and Certificates of Inspection, consumer protection law, Arabic labeling and National Food Safety Authority food labeling and registration rules, authorities, legal framework, operating process and cross-border context." />
+  <meta property="og:url" content="https://productcomplianceregistry.org/jurisdictions/egypt" />
+  <meta property="og:site_name" content="Product Compliance Registry" />
+  <meta name="DC.title" content="Product Compliance in Egypt" />
+  <meta name="DC.subject" content="Product Compliance Egypt GOEIC Certificate of Inspection Arabic Labeling Consumer Protection Law 181 2018 NFSA Food Labeling Registration Product Safety Cross-Border" />
+  <meta name="DC.coverage" content="Egypt" />
+  <meta name="DC.language" content="en" />
+  <meta name="DC.type" content="Text" />
+  <meta name="DC.format" content="text/html" />
+  <link rel="stylesheet" href="https://productcomplianceregistry.org/css/registry.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://productcomplianceregistry.org/#website",
+        "name": "Product Compliance Registry",
+        "url": "https://productcomplianceregistry.org/",
+        "description": "Professional registry of product compliance jurisdictions, authorities, legal frameworks, operating models and jurisdictional experts.",
+        "publisher": {
+          "@id": "https://productcomplianceregistry.org/#organization"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://productcomplianceregistry.org/jurisdictions?searchTerm={searchTerm}"
+          },
+          "query-input": "required name=searchTerm"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://productcomplianceregistry.org/#organization",
+        "name": "Product Compliance Registry",
+        "url": "https://productcomplianceregistry.org/",
+        "description": "International registry covering product compliance systems, standards, certification structures and registered expert positions across jurisdictions.",
+        "areaServed": "Worldwide",
+        "knowsAbout": [
+          "Product Compliance",
+          "Product Safety",
+          "Conformity Assessment",
+          "Certification",
+          "Market Access"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#webpage",
+        "url": "https://productcomplianceregistry.org/jurisdictions/egypt",
+        "name": "Product Compliance in Egypt",
+        "description": "Registry object covering product compliance in Egypt, including GOEIC conformity assessment and Certificates of Inspection, consumer protection law, Arabic labeling obligations and National Food Safety Authority food labeling and registration rules.",
+        "inLanguage": "en",
+        "isPartOf": {
+          "@id": "https://productcomplianceregistry.org/#website"
+        },
+        "mainEntity": {
+          "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#service"
+        },
+        "datePublished": "2026-07-18",
+        "dateModified": "2026-07-18",
+        "about": {
+          "@type": "Country",
+          "name": "Egypt"
+        },
+        "breadcrumb": {
+          "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#breadcrumb"
+        },
+        "accessibilityFeature": "structuredNavigation"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#service",
+        "name": "Product Compliance in Egypt",
+        "url": "https://productcomplianceregistry.org/jurisdictions/egypt",
+        "description": "Professional function concerning product compliance in Egypt, including GOEIC conformity assessment and Certificates of Inspection for regulated imports, consumer protection law and Arabic labeling, National Food Safety Authority food labeling and registration requirements and cross-border market access planning.",
+        "serviceType": "Product Compliance",
+        "areaServed": {
+          "@type": "Country",
+          "name": "Egypt"
+        },
+        "provider": {
+          "@id": "https://productcomplianceregistry.org/#organization"
+        },
+        "identifier": {
+          "@type": "PropertyValue",
+          "name": "PCR Registry ID",
+          "value": "PCR-EG-PC-001-A"
+        },
+        "datePublished": "2026-07-18",
+        "dateModified": "2026-07-18"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://productcomplianceregistry.org/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Jurisdictions",
+            "item": "https://productcomplianceregistry.org/jurisdictions"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Egypt",
+            "item": "https://productcomplianceregistry.org/jurisdictions/egypt"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://productcomplianceregistry.org/jurisdictions/egypt#faqpage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do regulated products imported into Egypt require GOEIC conformity assessment and a Certificate of Inspection?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Regulated goods imported into Egypt must be assessed through GOEIC-approved conformity assessment procedures and accompanied by a Certificate of Inspection for customs clearance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are finished goods imported for sale in Egypt required to be labeled in Arabic?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Finished goods imported for distribution and sale in Egypt must be labeled in Arabic with the country of origin, manufacturer’s name and product description."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Egypt require food labeling and registration through the National Food Safety Authority?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Egypt requires mandatory food labeling and, for food supplements and certain food categories, registration and handling authorization through the National Food Safety Authority."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can foreign companies need product compliance planning for Egypt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Foreign manufacturers, exporters and brand owners commonly need Egypt-specific conformity assessment planning, Arabic labeling preparation, GOEIC documentation and food registration analysis before export or local sale."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <div class="registry-container">
+    <header class="registry-header">
+      <nav aria-label="Breadcrumb" class="registry-breadcrumb">
+        <a href="https://productcomplianceregistry.org/" target="_blank" rel="noopener noreferrer">Home</a>
+        <span aria-hidden="true"> &rsaquo; </span>
+        <a href="https://productcomplianceregistry.org/jurisdictions" target="_blank" rel="noopener noreferrer">Jurisdictions</a>
+        <span aria-hidden="true"> &rsaquo; </span>
+        <span aria-current="page">Egypt</span>
+      </nav>
+
+      <div class="registry-metadata">
+        PROFESSIONAL OBJECT REGISTRY PCR<br />
+        Registry ID.....................PCR-EG-PC-001-A<br />
+        Registry Status.................ACTIVE<br />
+        Version.........................1.0.0<br />
+        Jurisdiction....................Egypt<br />
+        Language........................English<br />
+        Last Updated....................2026-07-18
+      </div>
+
+      <h1 class="registry-title">Product Compliance in Egypt</h1>
+      <div class="registry-subtitle">
+        Egypt — GOEIC Conformity Assessment, Arabic Labeling, NFSA Food Rules and Market Access Context
+      </div>
+    </header>
+
+    <nav class="registry-nav" aria-label="On-page navigation">
+      <ul class="registry-nav-list">
+        <li><a href="#executive-summary">Executive Summary</a></li>
+        <li><a href="#definition">Object Definition</a></li>
+        <li><a href="#scope">Scope</a></li>
+        <li><a href="#purpose">Purpose</a></li>
+        <li><a href="#primary-outcome">Primary Outcome</a></li>
+        <li><a href="#request-contexts">Request Contexts</a></li>
+        <li><a href="#typical-users">Typical Users</a></li>
+        <li><a href="#typical-scenarios">Typical Scenarios</a></li>
+        <li><a href="#country-characteristics">Country Characteristics</a></li>
+        <li><a href="#key-authorities">Key Authorities</a></li>
+        <li><a href="#applicable-legislation">Applicable Legislation</a></li>
+        <li><a href="#process-flow">Process Flow</a></li>
+        <li><a href="#decision-tree">Decision Tree</a></li>
+        <li><a href="#timeline">Timeline</a></li>
+        <li><a href="#required-documents">Required Documents</a></li>
+        <li><a href="#cross-border">Cross-Border Relevance</a></li>
+        <li><a href="#operating-constraints">Operating Constraints &amp; Risks</a></li>
+        <li><a href="#costs-fees">Costs &amp; Fees</a></li>
+        <li><a href="#typical-questions">FAQ</a></li>
+        <li><a href="#related-areas">Related Professional Areas</a></li>
+        <li><a href="#practical-guidance">Practical Guidance</a></li>
+        <li><a href="#registered-participants">Jurisdictional Expert</a></li>
+        <li><a href="#machine-layer">Machine Layer</a></li>
+      </ul>
+    </nav>
+
+    <section class="registry-intro" aria-label="Registry introduction">
+      <p>
+        This Registry Object presents product compliance in Egypt as a professional operating function rather than a marketing page.
+      </p>
+      <p>
+        It is designed to help international business readers understand how GOEIC conformity assessment and Certificates of Inspection, consumer protection law, Arabic labeling obligations and National Food Safety Authority food labeling and registration rules operate in practical and cross-border terms.
+      </p>
+    </section>
+
+    <div class="registry-tree">
+<strong>Registry Classification</strong><br />
+Business &gt; Regulatory &amp; Market Access &gt; Product Compliance &gt; Egypt &gt; Domestic and Cross-border
+    </div>
+
+    <div class="registry-grid" aria-label="Key summary panels">
+      <section class="registry-panel">
+        <div class="registry-panel-title">Core Function</div>
+        <div class="registry-panel-content">
+          Product compliance in Egypt concerns how businesses align goods with Egyptian technical regulations and standards, GOEIC conformity assessment and Certificates of Inspection, consumer protection law and Arabic labeling obligations and National Food Safety Authority rules for food labeling, registration and handling.
+        </div>
+      </section>
+
+      <section class="registry-panel">
+        <div class="registry-panel-title">Primary Interfaces</div>
+        <div class="registry-panel-content">
+          Product design, technical documentation, GOEIC regulated product mapping, conformity assessment and shipment certification, Arabic product labels for finished goods, consumer-facing information requirements, mandatory food label content, food supplement registration and remaining shelf-life controls at ports and borders.
+        </div>
+      </section>
+
+      <section class="registry-panel">
+        <div class="registry-panel-title">Cross-Border Note</div>
+        <div class="registry-panel-content">
+          Egyptian product compliance is especially relevant for foreign manufacturers and exporters because regulated products must meet GOEIC procedures and carry valid Certificates of Inspection and finished goods imported for distribution and sale must be labeled in Arabic before customs clearance and market entry.
+        </div>
+      </section>
+    </div>
+
+    <main id="main-content" aria-label="Product Compliance in Egypt Professional Object Registry">
+      <article>
+        <section class="registry-section" id="executive-summary" aria-labelledby="heading-executive-summary">
+          <div class="registry-section-title" id="heading-executive-summary">Executive Summary</div>
+          <p>
+            Product compliance in Egypt is the structured function through which products are evaluated against safety, quality and information expectations, Egyptian technical standards, GOEIC conformity assessment procedures and consumer and food law requirements before and during placement on the Egyptian market. Practically, this includes determining whether goods require a GOEIC Certificate of Inspection, whether Arabic labeling is mandatory and whether food or food supplements require National Food Safety Authority registration or handling authorization.
+          </p>
+          <p>
+            Operationally, Egyptian product compliance often begins with product classification and conformity mapping. A business typically reviews whether its products fall within regulated goods requiring GOEIC conformity assessment, which technical documents and test reports must be prepared and what product labels, ingredient statements, storage instructions, origin declarations and importer details must appear for customs and sale.
+          </p>
+          <p>
+            The Egypt environment combines GOEIC import control and conformity assessment, Consumer Protection Law No. 181 of 2018 and its executive regulations and National Food Safety Authority food rules consolidating national food safety oversight. As a result, product compliance work covers technical conformity, documentation, inspection, Arabic labeling for finished goods and mandatory food information and registration requirements for certain food categories such as food supplements.
+          </p>
+          <p>
+            Cross-border relevance is substantial because imported regulated goods cannot be legally imported into Egypt without GOEIC certification and associated conformity procedures, and finished goods imported for distribution and sale must be labeled in Arabic with the country of origin, manufacturer’s name and product description. Separate Egypt-specific planning is usually required even where products already comply with foreign regimes.
+          </p>
+        </section>
+
+        <section class="registry-section" id="definition" aria-labelledby="heading-definition">
+          <div class="registry-section-title" id="heading-definition">Object Definition</div>
+          <table class="registry-table">
+            <tr>
+              <td>Definition</td>
+              <td>The professional regulatory and market access function concerned with identifying, satisfying, maintaining and reviewing product compliance requirements in Egypt, including GOEIC conformity assessment and Certificates of Inspection, consumer protection law and Arabic labeling obligations and National Food Safety Authority food labeling and registration rules.</td>
+            </tr>
+            <tr>
+              <td>Object</td>
+              <td>Product Compliance</td>
+            </tr>
+            <tr>
+              <td>Object Type</td>
+              <td>Professional Regulatory and Market Access Function</td>
+            </tr>
+            <tr>
+              <td>Classification</td>
+              <td>Product Safety, Quality, GOEIC, Certificate of Inspection, Arabic Labeling, Consumer Protection, NFSA, Food Labeling, Food Registration, Market Access, Domestic and Cross-border</td>
+            </tr>
+            <tr>
+              <td>Jurisdiction</td>
+              <td>Egypt</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="scope" aria-labelledby="heading-scope">
+          <div class="registry-section-title" id="heading-scope">Scope</div>
+          <p>
+            This section defines the practical boundaries of the Product Compliance Registry Object for Egypt. The purpose is to distinguish product compliance from broader commercial consulting, general trade advice or purely technical product development.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Covered Matters</td>
+              <td>Product safety and quality positioning, Egyptian technical regulation and standards mapping, GOEIC conformity assessment and shipment certification, Certificates of Inspection, Arabic labeling for finished imported goods, consumer protection obligations relating to labeling and invoicing and NFSA food labeling, registration, handling authorization and remaining shelf-life requirements.</td>
+            </tr>
+            <tr>
+              <td>Functional Boundary</td>
+              <td>The Registry Object covers how businesses and operators align products with Egyptian compliance expectations before and during supply, particularly for goods affected by GOEIC procedures, consumer protection law and food and supplement regulation.</td>
+            </tr>
+            <tr>
+              <td>Related but Not Primary</td>
+              <td>Generic customs brokerage, pricing strategy, broad corporate law questions and non-compliance marketing consulting are related but not treated as the core object.</td>
+            </tr>
+            <tr>
+              <td>Outside Scope</td>
+              <td>Pure advertising, non-compliance product design work, unrelated financial structuring and non-regulatory brand positioning.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="purpose" aria-labelledby="heading-purpose">
+          <div class="registry-section-title" id="heading-purpose">Purpose</div>
+          <p>
+            The purpose of the product compliance function in Egypt is to ensure that goods entering or circulating in the Egyptian market are safe, of appropriate quality, correctly inspected and documented and properly described and labeled so that consumers, authorities and other stakeholders can make informed decisions and manage risks.
+          </p>
+          <p>
+            In practical terms, the function converts Egyptian technical conformity procedures, GOEIC inspection rules, consumer protection law obligations and NFSA food labeling and registration rules into a market-ready compliance stance for domestic and imported goods.
+          </p>
+        </section>
+
+        <section class="registry-section" id="primary-outcome" aria-labelledby="heading-primary-outcome">
+          <div class="registry-section-title" id="heading-primary-outcome">Primary Outcome</div>
+          <p>
+            A coherent product compliance position in Egypt, including correctly identified technical and labeling obligations, an appropriate conformity and information route, adequate technical and regulatory documentation and a usable basis for ongoing compliance management and complaint or enforcement response.
+          </p>
+        </section>
+
+        <section class="registry-section" id="request-contexts" aria-labelledby="heading-request-contexts">
+          <div class="registry-section-title" id="heading-request-contexts">Request Contexts</div>
+          <p>
+            Request contexts show situations in which product compliance work is commonly activated in Egypt. They help readers understand who usually needs the function and which business events trigger regulatory and operational review.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Identity Pattern</td>
+              <td>Foreign manufacturer entering Egypt, exporter shipping regulated goods, importer sourcing overseas finished products, food or supplement operator dealing with NFSA registration or adviser coordinating Arabic labeling and conformity strategy for Egypt.</td>
+            </tr>
+            <tr>
+              <td>Business Event</td>
+              <td>New product launch, introduction of goods covered by GOEIC conformity assessment, first export shipment requiring a Certificate of Inspection, launch of packaged food with mandatory label content or registration of food supplements before market handling.</td>
+            </tr>
+            <tr>
+              <td>Typical User</td>
+              <td>Manufacturers, exporters, importers, distributors, brand owners, legal teams, compliance managers, quality and safety officers and technical advisers.</td>
+            </tr>
+            <tr>
+              <td>Typical Scenario</td>
+              <td>A company plans to introduce goods into Egypt and must determine whether GOEIC conformity assessment, Arabic labeling, NFSA food registration or consumer protection requirements require additional work before sale or import.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="typical-users" aria-labelledby="heading-typical-users">
+          <div class="registry-section-title" id="heading-typical-users">Typical Users</div>
+          <table class="registry-table">
+            <tr>
+              <td>Manufacturer</td>
+              <td>Needs to ensure that product design, production records and test results support Egyptian technical requirements and GOEIC or NFSA expectations.</td>
+            </tr>
+            <tr>
+              <td>Exporter</td>
+              <td>Responsible for preparing invoices, packing lists, technical specifications, test reports and inspection arrangements needed for GOEIC conformity assessment and Certificate of Inspection issuance.</td>
+            </tr>
+            <tr>
+              <td>Importer</td>
+              <td>Must ensure that finished goods imported for distribution and sale are labeled in Arabic and that regulated goods have the required conformity documentation for customs clearance.</td>
+            </tr>
+            <tr>
+              <td>Brand Owner</td>
+              <td>Needs oversight over product specifications, labels, importer details, storage instructions and food or supplement positioning where products bear the brand name.</td>
+            </tr>
+            <tr>
+              <td>Compliance, Legal or Risk Manager</td>
+              <td>Coordinates conformity route selection, technical documentation, labeling, food registration, complaint management and internal approvals.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="typical-scenarios" aria-labelledby="heading-typical-scenarios">
+          <div class="registry-section-title" id="heading-typical-scenarios">Typical Scenarios</div>
+          <table class="registry-table">
+            <tr>
+              <td>GOEIC Certificate of Inspection for Regulated Imports</td>
+              <td>An exporter of regulated goods must register, submit invoices, packing lists, technical specifications and test reports to an authorized conformity assessment provider, undergo inspection and obtain a GOEIC Certificate of Inspection that accompanies the shipment for customs clearance.</td>
+            </tr>
+            <tr>
+              <td>Arabic Labeling for Finished Goods</td>
+              <td>A supplier of finished goods imported for distribution and sale in Egypt prepares labels in Arabic showing the country of origin, manufacturer’s name and product description and, where required, importer information and additional product data.</td>
+            </tr>
+            <tr>
+              <td>Food Labeling and Mandatory Product Information</td>
+              <td>A food company prepares mandatory label content including product name, producer and importer name and address, country of origin, ingredient list, net weight, batch identification, expiration date and storage instructions for food products marketed in Egypt.</td>
+            </tr>
+            <tr>
+              <td>Food Supplement Registration with NFSA</td>
+              <td>A food supplement brand seeks registration and permission to handle food supplements in Egypt, ensuring that the label includes supplement-specific warnings, daily dose information and nutritional and physiological effect details.</td>
+            </tr>
+            <tr>
+              <td>Port and Border Shelf-Life Compliance</td>
+              <td>An exporter confirms that food products arriving at Egyptian ports or borders meet minimum remaining shelf-life requirements to avoid rejection or delay.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="country-characteristics" aria-labelledby="heading-country-characteristics">
+          <div class="registry-section-title" id="heading-country-characteristics">Country Characteristics</div>
+          <p>
+            Country characteristics explain jurisdiction-specific features that shape how product compliance operates in Egypt. The Egyptian context is influenced by import-control conformity systems, consumer protection law and a consolidated national food safety regime.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Operational Culture</td>
+              <td>Egypt’s product environment relies on formal conformity assessment, shipment documentation and Arabic product information to protect consumers and regulate imports.</td>
+            </tr>
+            <tr>
+              <td>Regulatory Orientation</td>
+              <td>Compliance combines GOEIC import conformity control, consumer protection law, executive regulations on labeling and invoicing and NFSA food rules consolidating food safety oversight.</td>
+            </tr>
+            <tr>
+              <td>Commercial Context</td>
+              <td>Egypt is a major market where import compliance, shipment documentation and label accuracy strongly affect customs clearance and commercial rollout.</td>
+            </tr>
+            <tr>
+              <td>Information and Labeling Focus</td>
+              <td>Arabic labels and food information, including ingredients, origin, dates, storage instructions and importer details, are emphasised as instruments for protecting health and supporting informed decisions.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="key-authorities" aria-labelledby="heading-key-authorities">
+          <div class="registry-section-title" id="heading-key-authorities">Key Authorities</div>
+          <p>
+            Key authorities identify institutions that shape, administer or influence product compliance in Egypt. Product compliance involves import control, consumer protection, food safety and sector-specific regulators.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Official Name</td>
+              <td>General Organization for Export and Import Control (GOEIC)</td>
+            </tr>
+            <tr>
+              <td>Official English Name</td>
+              <td>General Organization for Export and Import Control</td>
+            </tr>
+            <tr>
+              <td>Primary Role</td>
+              <td>Authority responsible for conformity assessment of regulated imports and related import-control procedures in Egypt.</td>
+            </tr>
+            <tr>
+              <td>Responsibilities</td>
+              <td>Registers conformity-related units, oversees product conformity procedures, works with approved conformity assessment bodies and requires Certificates of Inspection for regulated goods imported into Egypt.</td>
+            </tr>
+            <tr>
+              <td>Typical Interaction</td>
+              <td>Businesses engage when a regulated shipment requires registration, document review, inspection, testing and issuance of a GOEIC Certificate of Inspection for customs clearance.</td>
+            </tr>
+            <tr>
+              <td>Official Website</td>
+              <td>GOEIC services and conformity unit portal.</td>
+            </tr>
+            <tr>
+              <td>Cross-Border Relevance</td>
+              <td>Important for foreign exporters and manufacturers because regulated goods cannot be legally imported into Egypt without GOEIC-related conformity handling.</td>
+            </tr>
+
+            <tr>
+              <td>Official Name</td>
+              <td>Egyptian Consumer Protection Agency</td>
+            </tr>
+            <tr>
+              <td>Official English Name</td>
+              <td>Consumer Protection Agency</td>
+            </tr>
+            <tr>
+              <td>Primary Role</td>
+              <td>Authority responsible for enforcement of Consumer Protection Law No. 181 of 2018 and related executive regulations affecting supplier duties and product information.</td>
+            </tr>
+            <tr>
+              <td>Responsibilities</td>
+              <td>Protects consumer rights, interprets duties of suppliers and professionals and supports implementation of rules on product labeling, invoicing and commercial conduct.</td>
+            </tr>
+            <tr>
+              <td>Typical Interaction</td>
+              <td>Businesses interact when consumer-rights issues, labeling disputes or enforcement questions arise under the consumer protection framework.</td>
+            </tr>
+            <tr>
+              <td>Official Website</td>
+              <td>Consumer protection legal and agency resources.</td>
+            </tr>
+            <tr>
+              <td>Cross-Border Relevance</td>
+              <td>Important for foreign suppliers whose products are sold to consumers in Egypt.</td>
+            </tr>
+
+            <tr>
+              <td>Official Name</td>
+              <td>National Food Safety Authority (NFSA)</td>
+            </tr>
+            <tr>
+              <td>Official English Name</td>
+              <td>National Food Safety Authority</td>
+            </tr>
+            <tr>
+              <td>Primary Role</td>
+              <td>Authority responsible for the national food safety system, food registration and handling authorization for certain food categories and related food labeling rules.</td>
+            </tr>
+            <tr>
+              <td>Responsibilities</td>
+              <td>Consolidates food safety oversight, governs registration and handling of foods for special dietary uses and food supplements and enforces food labeling requirements and product-specific rules.</td>
+            </tr>
+            <tr>
+              <td>Typical Interaction</td>
+              <td>Food manufacturers, importers and supplement brands engage for product registration, labeling review and compliance management before handling or marketing products.</td>
+            </tr>
+            <tr>
+              <td>Official Website</td>
+              <td>NFSA information and registration-related resources.</td>
+            </tr>
+            <tr>
+              <td>Cross-Border Relevance</td>
+              <td>Important for foreign food exporters and supplement brands intending to market products in Egypt.</td>
+            </tr>
+
+            <tr>
+              <td>Official Name</td>
+              <td>Egyptian Customs and Port Control Interfaces</td>
+            </tr>
+            <tr>
+              <td>Official English Name</td>
+              <td>Egyptian customs and border control system</td>
+            </tr>
+            <tr>
+              <td>Primary Role</td>
+              <td>Operational interface applying documentary and physical clearance rules at ports and borders for imported products and food consignments.</td>
+            </tr>
+            <tr>
+              <td>Responsibilities</td>
+              <td>Use GOEIC and NFSA-related documentation, shelf-life checks and shipment records to determine whether products may enter the Egyptian market.</td>
+            </tr>
+            <tr>
+              <td>Typical Interaction</td>
+              <td>Importers and exporters interact through customs clearance and documentary submission when shipments arrive.</td>
+            </tr>
+            <tr>
+              <td>Official Website</td>
+              <td>Customs-facing trade and import portals.</td>
+            </tr>
+            <tr>
+              <td>Cross-Border Relevance</td>
+              <td>Critical for all foreign suppliers because clearance failure blocks market entry.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="applicable-legislation" aria-labelledby="heading-applicable-legislation">
+          <div class="registry-section-title" id="heading-applicable-legislation">Applicable Legislation</div>
+          <p>
+            The applicable legislation section identifies principal rule layers that shape product compliance in Egypt. Different product types may encounter different instruments, so category-specific review is often necessary.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Official Title</td>
+              <td>GOEIC Conformity Assessment and Certificate of Inspection Framework</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Ensures that regulated imported goods conform to applicable standards and technical regulations before customs clearance in Egypt.</td>
+            </tr>
+            <tr>
+              <td>Typical Application</td>
+              <td>Relevant for regulated goods imported into Egypt that must undergo registration, document review, inspection and testing and be accompanied by a Certificate of Inspection.</td>
+            </tr>
+            <tr>
+              <td>Related Instruments</td>
+              <td>Matching unit rules, approved conformity assessment procedures and exporter guidance on inspection stages and documentation.</td>
+            </tr>
+            <tr>
+              <td>Official Source</td>
+              <td>GOEIC service pages and approved conformity assessment body guidance.</td>
+            </tr>
+            <tr>
+              <td>Current Status</td>
+              <td>In force, used for legal importation of regulated products.</td>
+            </tr>
+
+            <tr>
+              <td>Official Title</td>
+              <td>Consumer Protection Law No. 181 of 2018 and Executive Regulations issued by Prime Ministerial Decree No. 822 of 2019</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Protects consumer rights and sets duties for suppliers and professionals, including rules relevant to product labeling, invoicing and commercial conduct.</td>
+            </tr>
+            <tr>
+              <td>Typical Application</td>
+              <td>Relevant for consumer products and services sold in Egypt and for interpretation of labeling and supplier information obligations.</td>
+            </tr>
+            <tr>
+              <td>Related Instruments</td>
+              <td>Executive regulations detailing procedures for product labeling, invoicing and consumer-rights implementation.</td>
+            </tr>
+            <tr>
+              <td>Official Source</td>
+              <td>Official law translations and legal publications.</td>
+            </tr>
+            <tr>
+              <td>Current Status</td>
+              <td>In force.</td>
+            </tr>
+
+            <tr>
+              <td>Official Title</td>
+              <td>Arabic Labeling Requirements for Finished Goods Imported into Egypt</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Require finished goods imported for distribution and sale in Egypt to be labeled in Arabic with essential identification information.</td>
+            </tr>
+            <tr>
+              <td>Typical Application</td>
+              <td>Relevant for finished goods entering the Egyptian market, requiring Arabic indication of country of origin, manufacturer’s name and product description and, in some sectors, further details such as net weight and importer name and address.</td>
+            </tr>
+            <tr>
+              <td>Related Instruments</td>
+              <td>Trade and customs guidance and product-specific import rules.</td>
+            </tr>
+            <tr>
+              <td>Official Source</td>
+              <td>Trade guidance and Egypt labeling and marking requirement notices.</td>
+            </tr>
+            <tr>
+              <td>Current Status</td>
+              <td>In force.</td>
+            </tr>
+
+            <tr>
+              <td>Official Title</td>
+              <td>National Food Safety Authority Rules on Food Labeling and Registration</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Define mandatory food label content and regulate registration and handling of certain food categories, including food supplements and foods for special dietary uses.</td>
+            </tr>
+            <tr>
+              <td>Typical Application</td>
+              <td>Relevant for food products and food supplements marketed in Egypt, requiring ingredient lists, origin, importer details, batch identification, expiration dates, storage instructions and, for supplements, specific warnings and dosage statements.</td>
+            </tr>
+            <tr>
+              <td>Related Instruments</td>
+              <td>NFSA Decree of the Board of Directors No. 1 of 2018 and importer and exporter food guidelines, including minimum remaining shelf-life requirements at ports and borders.</td>
+            </tr>
+            <tr>
+              <td>Official Source</td>
+              <td>NFSA-related compliance resources and exporter/importer guidance.</td>
+            </tr>
+            <tr>
+              <td>Current Status</td>
+              <td>In force as part of Egypt’s consolidated food safety system.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="process-flow" aria-labelledby="heading-process-flow">
+          <div class="registry-section-title" id="heading-process-flow">Process Flow</div>
+          <p>
+            The process flow explains how Egyptian product compliance work usually progresses from product identification to active market use. It matters because compliance is an operating sequence, not a single mark or certificate.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>1. Product Identification</td>
+              <td>Identify the product, intended use, risk profile and commercial route into Egypt.</td>
+            </tr>
+            <tr>
+              <td>2. Regulation and Category Mapping</td>
+              <td>Determine whether the product falls within GOEIC conformity assessment, Arabic labeling rules, consumer protection obligations or NFSA food registration and labeling frameworks.</td>
+            </tr>
+            <tr>
+              <td>3. Conformity and Information Route Selection</td>
+              <td>Assess which GOEIC inspection route, Certificate of Inspection, label structure, food registration or supplement authorization path applies and choose an appropriate route.</td>
+            </tr>
+            <tr>
+              <td>4. Documentation Preparation</td>
+              <td>Prepare invoices, packing lists, technical specifications, test reports, labels, Arabic information, importer details, ingredient lists, storage instructions and other required records.</td>
+            </tr>
+            <tr>
+              <td>5. Inspection, Sampling and Assessment</td>
+              <td>Carry out document review, physical inspection, sampling and testing through GOEIC-approved conformity assessment procedures where required.</td>
+            </tr>
+            <tr>
+              <td>6. Certificate and Label Finalization</td>
+              <td>Obtain the GOEIC Certificate of Inspection where applicable and finalize Arabic labels and food information in the required form.</td>
+            </tr>
+            <tr>
+              <td>7. Customs and Market Entry</td>
+              <td>Release products into import, warehousing, distribution or retail channels once conformity and labeling obligations are satisfied and customs clearance is complete.</td>
+            </tr>
+            <tr>
+              <td>8. Monitoring and Complaint Handling</td>
+              <td>Monitor safety, quality, labels, complaints and incidents and respond in line with consumer-protection and food-safety enforcement practice.</td>
+            </tr>
+            <tr>
+              <td>9. Maintenance and Corrective Action</td>
+              <td>Update certificates, labels, registrations and related records where changes, incidents or regulatory developments occur.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="decision-tree" aria-labelledby="heading-decision-tree">
+          <div class="registry-section-title" id="heading-decision-tree">Decision Tree</div>
+          <p>
+            The decision tree simplifies threshold questions that commonly determine the correct product compliance route in Egypt. It presents the sequence as a logical workflow rather than a list of isolated obligations.
+          </p>
+          <ol>
+            <li>What is the product and how will it be supplied in Egypt (manufactured locally, imported or both)?</li>
+            <li>Is the product regulated under GOEIC conformity assessment and does it require a Certificate of Inspection?</li>
+            <li>Is the product a finished good imported for distribution and sale requiring Arabic labeling?</li>
+            <li>Is the product a food item subject to mandatory label content and minimum remaining shelf-life checks?</li>
+            <li>Is the product a food supplement or special dietary use product requiring NFSA registration and specific supplement warnings?</li>
+            <li>Which certificates, approvals, labels, importer declarations and supporting technical records are required before market entry?</li>
+            <li>Are technical, supplier, label and documentation records sufficient for inspection, approval and responsible distribution?</li>
+            <li>Is there a plan for maintaining certificates, labels and registrations and for handling complaints and corrective actions over the product’s life?</li>
+          </ol>
+        </section>
+
+        <section class="registry-section" id="timeline" aria-labelledby="heading-timeline">
+          <div class="registry-section-title" id="heading-timeline">Timeline</div>
+          <p>
+            The timeline section provides a practical sense of how product compliance develops across the commercial life of a product in Egypt. Compliance questions often begin before import or manufacture and continue after sale through maintenance and risk control.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Concept or Sourcing</td>
+              <td>A business identifies a product for manufacture, import, private-label use or distribution into Egypt.</td>
+            </tr>
+            <tr>
+              <td>Pre-Market Review</td>
+              <td>The product is assessed for GOEIC coverage, Arabic labeling, consumer-protection obligations and food or supplement regulation.</td>
+            </tr>
+            <tr>
+              <td>Preparation and Alignment</td>
+              <td>Specifications, labels, Arabic information, test plans, supplier records and documentation are assembled to support Egyptian compliance positioning.</td>
+            </tr>
+            <tr>
+              <td>Assessment and Certification or Approval</td>
+              <td>Inspection, testing, shipment review, Certificate of Inspection issuance and label implementation are completed through relevant bodies.</td>
+            </tr>
+            <tr>
+              <td>Commercial Entry</td>
+              <td>The product enters import, warehousing, distribution or retail channels once the compliance basis is considered workable and customs clearance is achieved.</td>
+            </tr>
+            <tr>
+              <td>Operational Use</td>
+              <td>The product remains under review for complaints, incidents, labeling clarity and continuing safety and quality.</td>
+            </tr>
+            <tr>
+              <td>Maintenance or Corrective Activity</td>
+              <td>Records, labels, certificates and registrations are updated where product changes, incidents or regulatory developments occur.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="required-documents" aria-labelledby="heading-required-documents">
+          <div class="registry-section-title" id="heading-required-documents">Required Documents</div>
+          <p>
+            Required documents identify materials normally needed to run Egyptian product compliance work reliably. Product safety and fairness depend heavily on records being complete, clear and traceable.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Document</td>
+              <td>Product Specification and Conformity Mapping File</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Defines the product, key characteristics and category assumptions used for Egyptian technical and regulatory analysis.</td>
+            </tr>
+            <tr>
+              <td>Typical Situation</td>
+              <td>Prepared at the beginning of compliance planning and shared across technical, legal and commercial teams.</td>
+            </tr>
+
+            <tr>
+              <td>Document</td>
+              <td>Commercial Invoice and Packing List</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Support GOEIC conformity assessment and customs-facing shipment identification.</td>
+            </tr>
+            <tr>
+              <td>Typical Situation</td>
+              <td>Submitted to approved conformity assessment bodies during Certificate of Inspection procedures.</td>
+            </tr>
+
+            <tr>
+              <td>Document</td>
+              <td>Technical Specifications and Test Reports</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Demonstrate that the product meets applicable technical standards and support inspection and assessment.</td>
+            </tr>
+            <tr>
+              <td>Typical Situation</td>
+              <td>Used for regulated goods and for shipment review and testing decisions.</td>
+            </tr>
+
+            <tr>
+              <td>Document</td>
+              <td>Certificate of Inspection and GOEIC Conformity Records</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Provide formal records of inspection and conformity required for customs clearance of regulated goods.</td>
+            </tr>
+            <tr>
+              <td>Typical Situation</td>
+              <td>Used to confirm that products can legally be imported and cleared into Egypt.</td>
+            </tr>
+
+            <tr>
+              <td>Document</td>
+              <td>Arabic Labeling and Food Registration Information File</td>
+            </tr>
+            <tr>
+              <td>Purpose</td>
+              <td>Shows how labels, ingredient lists, importer details, dates, storage instructions and food supplement warnings are presented to consumers and regulators.</td>
+            </tr>
+            <tr>
+              <td>Typical Situation</td>
+              <td>Used when aligning with Arabic labeling, NFSA food rules and consumer information obligations.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="cross-border" aria-labelledby="heading-cross-border">
+          <div class="registry-section-title" id="heading-cross-border">Cross-Border Relevance</div>
+          <p>
+            Cross-border relevance explains why product compliance in Egypt cannot be treated only as a domestic matter. Many products supplied into Egypt originate elsewhere, and Egyptian rules may differ from assumptions in other markets.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Recognition</td>
+              <td>Foreign approvals and test reports support technical evidence but usually need to be interpreted against GOEIC conformity assessment, Egyptian labeling rules and NFSA registration and food information frameworks.</td>
+            </tr>
+            <tr>
+              <td>Foreign Companies</td>
+              <td>Exporters and foreign brand owners often need Egypt-specific planning and documentation rather than assuming existing approvals can simply be reused.</td>
+            </tr>
+            <tr>
+              <td>Language and Information</td>
+              <td>Finished goods imported for sale must be labeled in Arabic and food products require detailed label content suited for Egyptian market control and consumers.</td>
+            </tr>
+            <tr>
+              <td>International Links</td>
+              <td>International standards can support technical positioning, but national application and enforcement remain jurisdiction-specific.</td>
+            </tr>
+            <tr>
+              <td>Practical Considerations</td>
+              <td>Cross-border compliance works best when GOEIC procedures, Arabic labeling, consumer-protection obligations and NFSA food rules are treated as one coordinated architecture.</td>
+            </tr>
+            <tr>
+              <td>Typical Risks</td>
+              <td>Assuming that foreign certification automatically resolves Egyptian import requirements, underestimating Arabic labeling duties or neglecting food registration or remaining shelf-life checks at ports and borders.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="operating-constraints" aria-labelledby="heading-operating-constraints">
+          <div class="registry-section-title" id="heading-operating-constraints">Operating Constraints &amp; Risks</div>
+          <p>
+            Operating constraints identify limits, risks and recurring friction points that affect product compliance execution in Egypt.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Category Misinterpretation Risk</td>
+              <td>Misreading whether a product falls within GOEIC conformity assessment or NFSA registration scope can lead to under-compliance.</td>
+            </tr>
+            <tr>
+              <td>Documentation Gaps</td>
+              <td>Absent or weak technical, supplier or labeling records may undermine the product’s compliance position even where design is sound.</td>
+            </tr>
+            <tr>
+              <td>Conformity Route Risk</td>
+              <td>Choosing inappropriate or incomplete inspection and certification routes can cause delays, customs clearance issues or additional review cycles.</td>
+            </tr>
+            <tr>
+              <td>Arabic Labeling Risk</td>
+              <td>Failure to provide accurate Arabic labels for finished goods may block importation or create enforcement exposure after sale.</td>
+            </tr>
+            <tr>
+              <td>Food Registration and Shelf-Life Risk</td>
+              <td>Neglecting NFSA registration rules or minimum remaining shelf-life requirements may result in rejection, delay or compliance failure at the border.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="costs-fees" aria-labelledby="heading-costs-fees">
+          <div class="registry-section-title" id="heading-costs-fees">Costs &amp; Fees</div>
+          <p>
+            The costs section explains how resource demands typically arise in Egyptian product compliance matters. It highlights main cost drivers without providing pricing.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Technical and Regulatory Work</td>
+              <td>Cost is influenced by product complexity, number of applicable Egyptian standards and need for detailed GOEIC or NFSA analysis.</td>
+            </tr>
+            <tr>
+              <td>Inspection, Testing and Certification</td>
+              <td>Inspection, sampling, testing and Certificate of Inspection handling may materially increase compliance expense for regulated categories.</td>
+            </tr>
+            <tr>
+              <td>Documentation and Labeling Preparation</td>
+              <td>Preparing or correcting specifications, Arabic labels, ingredient statements, importer data and food registration materials may require dedicated professional time.</td>
+            </tr>
+            <tr>
+              <td>Maintenance and Corrective Action</td>
+              <td>Ongoing review, periodic updates, response to complaints and incident management create recurring compliance-related costs.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="typical-questions" aria-labelledby="heading-typical-questions">
+          <div class="registry-section-title" id="heading-typical-questions">FAQ</div>
+          <p>
+            The FAQ section collects recurring threshold questions in a concise handbook format.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Do Regulated Products Imported into Egypt Require a GOEIC Certificate of Inspection?</td>
+              <td>Yes. Regulated goods must be accompanied by a GOEIC Certificate of Inspection following registration, document review and, where needed, physical inspection and testing.</td>
+            </tr>
+            <tr>
+              <td>Are Finished Goods Imported for Sale Required to Be Labeled in Arabic?</td>
+              <td>Yes. Finished goods imported for distribution and sale in Egypt must be labeled in Arabic with the country of origin, manufacturer’s name and product description.</td>
+            </tr>
+            <tr>
+              <td>Do Food Products Need Mandatory Label Content?</td>
+              <td>Yes. Food labels must include core information such as product name, producer and importer details, country of origin, ingredient list, net weight and expiration date.</td>
+            </tr>
+            <tr>
+              <td>Do Food Supplements Need NFSA Registration?</td>
+              <td>Yes. Food supplements to be marketed in Egypt must be registered and licensed for handling through the National Food Safety Authority framework.</td>
+            </tr>
+            <tr>
+              <td>Can Foreign Approvals Be Used As-Is?</td>
+              <td>Foreign approvals can support technical evidence but usually require interpretation and adaptation within the Egyptian conformity and labeling framework rather than direct reuse without review.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="related-areas" aria-labelledby="heading-related-areas">
+          <div class="registry-section-title" id="heading-related-areas">Related Professional Areas</div>
+          <p>
+            Related professional areas show neighbouring disciplines that connect to product compliance without forming its core scope.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Customs and Trade Operations</td>
+              <td>Product compliance influences customs clearance and import planning, but customs handling is a separate operational discipline.</td>
+            </tr>
+            <tr>
+              <td>Quality Assurance and Manufacturing Control</td>
+              <td>Quality systems and manufacturing discipline are important foundations for technical compliance positions.</td>
+            </tr>
+            <tr>
+              <td>Consumer-Protection and Dispute Handling</td>
+              <td>Complaint management and dispute handling intersect with product compliance when safety, quality or information issues arise.</td>
+            </tr>
+            <tr>
+              <td>Food Safety and Nutrition Regulation</td>
+              <td>Sector-specific rules complement product compliance for food products, supplements and nutritional information.</td>
+            </tr>
+            <tr>
+              <td>Risk and Liability Management</td>
+              <td>Product compliance outcomes influence overall risk and liability exposure for businesses active in Egypt.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="practical-guidance" aria-labelledby="heading-practical-guidance">
+          <div class="registry-section-title" id="heading-practical-guidance">Practical Guidance</div>
+          <p>
+            Practical guidance helps the reader prepare before engaging a specialist or building an Egyptian product compliance strategy.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Checklist</td>
+              <td>What is the product and category? Is the product regulated under GOEIC conformity procedures? Does it require a Certificate of Inspection? Is it a finished good imported for sale and therefore subject to Arabic labeling? Is it a food item subject to mandatory food label content and remaining shelf-life rules? Is it a food supplement requiring NFSA registration and supplement-specific warnings? Which certificates, tests, labels and importer declarations are required? Which technical and supplier records exist? Are labels, warnings and claims clear and accurate in Arabic where required? Is there a plan for complaint, recall and enforcement handling? How will updates and changes be managed over time?</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="registered-participants" aria-labelledby="heading-registered-participants">
+          <div class="registry-section-title" id="heading-registered-participants">Jurisdictional Expert</div>
+          <p>
+            The Jurisdictional Expert section records the status of the registry position associated with this jurisdictional object. It remains independent from editorial content.
+          </p>
+          <table class="registry-table">
+            <tr>
+              <td>Registry Position ID</td>
+              <td>RE-EG-PC-001</td>
+            </tr>
+            <tr>
+              <td>Registry Position</td>
+              <td>Jurisdictional Expert — Product Compliance Egypt</td>
+            </tr>
+            <tr>
+              <td>Registry Availability</td>
+              <td>Open</td>
+            </tr>
+            <tr>
+              <td>Verification Status</td>
+              <td>No verified participant currently assigned to this registry position.</td>
+            </tr>
+            <tr>
+              <td>Coverage</td>
+              <td>Egyptian product compliance with domestic and cross-border business relevance.</td>
+            </tr>
+            <tr>
+              <td>Registry Reference</td>
+              <td>PCR-EG-PC-001-A — Jurisdictional Expert Position</td>
+            </tr>
+            <tr>
+              <td>Contact Information</td>
+              <td>Registry position not yet assigned.</td>
+            </tr>
+          </table>
+        </section>
+
+        <section class="registry-section" id="machine-layer" aria-labelledby="heading-machine-layer">
+          <div class="registry-section-title" id="heading-machine-layer">Machine Layer</div>
+          <table class="registry-table">
+            <tr>
+              <td>AI Retrieval Summary</td>
+              <td>Product compliance in Egypt is the professional function concerned with GOEIC conformity assessment and Certificates of Inspection, consumer protection law, Arabic labeling, NFSA food labeling and registration and cross-border market access readiness.</td>
+            </tr>
+            <tr>
+              <td>Object DNA</td>
+              <td>Product compliance, Egypt, GOEIC, Certificate of Inspection, Arabic labeling, consumer protection, NFSA, food labeling, food registration, market access.</td>
+            </tr>
+            <tr>
+              <td>Entity Index</td>
+              <td>Egypt, GOEIC, Consumer Protection Agency, National Food Safety Authority, customs interfaces, manufacturers, exporters, importers, distributors, brand owners.</td>
+            </tr>
+            <tr>
+              <td>Machine Metadata</td>
+              <td>RegistryID=PCR-EG-PC-001-A | Jurisdiction=Egypt | Domain=Product Compliance | Language=en | Status=ACTIVE | Version=1.0.0</td>
+            </tr>
+          </table>
+        </section>
+      </article>
+    </main>
+
+    <footer class="registry-footer">
+      <div class="registry-footer-inner">
+        <div class="registry-footer-meta">
+          <span class="registry-footer-brand">Product Compliance Registry</span>
+          <span>END OF RECORD</span>
+          <span>Registry Scope...................Egypt Product Compliance Reference</span>
+          <span>Record Integrity................ACTIVE</span>
+        </div>
+
+        <nav class="registry-footer-nav" aria-label="Footer navigation">
+          <a href="https://productcomplianceregistry.org/jurisdictions" target="_blank" rel="noopener noreferrer">Jurisdictions</a>
+          <a href="https://productcomplianceregistry.org/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+          <a href="https://productcomplianceregistry.org/terms-of-use" target="_blank" rel="noopener noreferrer">Terms of Use</a>
+        </nav>
+
+        <p class="registry-footer-copy">
+          &copy; <span id="current-year">2026</span> Product Compliance Registry. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
