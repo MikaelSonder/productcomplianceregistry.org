@@ -1,1 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Core pages -->
+  <url>
+    <loc>https://productcomplianceregistry.org/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/privacy-policy/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/terms-of-use/</loc>
+  </url>
+
+  <!-- Core jurisdictions -->
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/european-union/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/united-states/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/united-kingdom/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/canada/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/australia/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/japan/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/china/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/south-korea/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/india/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/brazil/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/mexico/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/switzerland/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/turkey/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/singapore/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/saudi-arabia/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/united-arab-emirates/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/new-zealand/</loc>
+  </url>
+
+  <!-- Asia–Pacific and nearby markets -->
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/malaysia/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/thailand/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/indonesia/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/vietnam/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/philippines/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/taiwan/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/hong-kong/</loc>
+  </url>
+
+  <!-- Middle East & Africa -->
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/south-africa/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/israel/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/qatar/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/oman/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/kuwait/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/bahrain/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/egypt/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/morocco/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/kenya/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/nigeria/</loc>
+  </url>
+
+  <!-- Europe and other markets -->
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/norway/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/liechtenstein/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/argentina/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/chile/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/colombia/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/peru/</loc>
+  </url>
+  <url>
+    <loc>https://productcomplianceregistry.org/jurisdictions/pakistan/</loc>
+  </url>
+
+</urlset>
